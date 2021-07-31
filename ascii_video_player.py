@@ -8,8 +8,7 @@ from video_converter import VideoConverter
 def get_video_from_file(file_path):
     video = cv.VideoCapture(file_path)
     if (video.isOpened() == False):
-        print("Error opening video stream or file")
-        raise Exception()
+        raise Exception("Error opening file")
     
     return video
 
