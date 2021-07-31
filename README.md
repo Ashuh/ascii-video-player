@@ -1,5 +1,7 @@
 # ASCII Video Player
 
+![Bad Apple Demo](https://github.com/Ashuh/ascii-video-player/blob/main/gif/bad_apple_demo.gif "Bad Apple Demo")
+
 ## Usage
 
 ```bash
