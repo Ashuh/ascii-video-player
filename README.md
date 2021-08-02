@@ -1,6 +1,9 @@
 # ASCII Video Player
 
-![Bad Apple Demo](https://github.com/Ashuh/ascii-video-player/blob/main/gif/bad_apple_demo.gif "Bad Apple Demo")
+<p align="center">
+<img src="https://github.com/Ashuh/ascii-video-player/blob/main/gif/bad_apple_demo.gif" width="800" height="605" title="Bad Apple Demo">
+<img src="https://github.com/Ashuh/ascii-video-player/blob/main/gif/coffin_dance_demo.gif" width="800" height="434" title="Coffin Dance Demo">
+</p>
 
 ## Usage
 
